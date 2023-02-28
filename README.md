@@ -1,4 +1,7 @@
+i made changesß
+
 # Exercise Workflow
+
 This page describes the process for working on exercises at Boolean. There are two main types of exercise: 
 
 1. Afternoon exercises that put in to practice the theory you learn in morning lectures. There will usually be an afternoon exercise each day.
